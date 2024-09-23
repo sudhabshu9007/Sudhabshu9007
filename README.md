@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋, I'm Anshu!
 
-<!--
-**sudhabshu9007/Sudhabshu9007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I'm a web developer with experience in:
+- **HTML**, **CSS**, **JavaScript**  
+- Basics of **Python**, **C**, **C++**, **PHP**
 
-Here are some ideas to get you started:
+I'm passionate about building web applications and constantly learning new programming technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- 💻 Frontend Development: HTML, CSS, JavaScript
+- 🔧 Programming Basics: Python, C, C++, PHP
+- 🚀 Learning new things and improving my skills daily!
+
+### Projects
+Here are some of the projects I've worked on:
+- **[Simple Website](https://github.com/sudhabshu9007/Simple-website)** - A basic website demo.
+- [Link to another project if you have any]
+
+### Get in Touch
+- 📫 You can reach me at [your-sudhanshu8363@gmail.com]
+
+
+Thank you for visiting my profile!
+
