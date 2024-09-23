@@ -18,7 +18,20 @@ Here are some of the projects I've worked on:
 - [Link to another project if you have any]
 
 ### Get in Touch
-- 📫 You can reach me at [your-sudhanshu8363@gmail.com]<br><>]<br>
+- 📫 You can reach me at [your-sudhanshu8363@gmail.com]<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
