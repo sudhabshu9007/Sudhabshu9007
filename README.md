@@ -4,7 +4,7 @@
 I'm a web developer with experience in:
 - **HTML**, **CSS**, **JavaScript**  
 - Basics of **Python**, **C**, **C++**, **PHP**
-- <img src=""></img>
+- <img src="https://images.app.goo.gl/4SDrriVmLnDcmoCD6"></img>
 
 I'm passionate about building web applications and constantly learning new programming technologies.
 
