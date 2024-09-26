@@ -4,6 +4,7 @@
 I'm a web developer with experience in:
 - **HTML**, **CSS**, **JavaScript**  
 - Basics of **Python**, **C**, **C++**, **PHP**
+- <img src=""></img>
 
 I'm passionate about building web applications and constantly learning new programming technologies.
 
@@ -14,7 +15,7 @@ I'm passionate about building web applications and constantly learning new progr
 
 ### Projects
 Here are some of the projects I've worked on:
-- **[Simple Website](https://github.com/sudhabshu9007/Simple-website)** - A basic website demo.
+- **[Simple Website](https://anshu-code-world.github.io/Notes-for-class-10th-/)** - A basic website demo.
 
 
 ### Get in Touch
